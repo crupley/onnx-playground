@@ -2,3 +2,5 @@
 *.log
 notebooks/models/
 notebooks/data/
+.idea
+.ipynb_checkpoints
